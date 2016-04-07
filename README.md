@@ -2,8 +2,12 @@
 Simplest way to transmit digital data over radio frequency
 
 Hardware requirements:
-1. attiny13
+
+1. attiny13 
+
 2. 433MHz/315MHz AM transmitter
+
+
 
 
 For receiver see RCSwitch examples
