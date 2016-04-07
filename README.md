@@ -7,6 +7,7 @@ Hardware requirements:
 
 2. 433MHz/315MHz AM transmitter
 
+3. 17.2cm wire as antenna, gives at least 10m of distance, though you need to send same code several times.
 
 
 
