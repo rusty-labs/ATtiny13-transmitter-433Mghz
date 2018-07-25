@@ -1,5 +1,5 @@
 # ATtiny13-transmitter-433Mghz
-Simplest way to transmit digital data over radio frequency
+Easy way to transmit digital data over radio frequency
 
 Hardware requirements:
 
@@ -7,7 +7,7 @@ Hardware requirements:
 
 2. 433MHz/315MHz AM transmitter
 
-3. 17.2cm wire as antenna, gives at least 10m of distance, though you need to send same code several times.
+3. 17.2cm wire as antenna, range - at least 10m, for reliable communication send data several times.
 
 
 
